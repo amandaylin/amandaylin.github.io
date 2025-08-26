@@ -6,7 +6,7 @@ collection: portfolio
 
 ---
 <p align="center">
-  <img src="../images/MacBook-Pro.jpeg" alt="MacBook-Pro" width="500"/>
+  <img src="/images/MacBook-Pro.jpeg" alt="MacBook-Pro" width="500"/>
 </p>
 <p align="center">
   2019 16" MacBook Pro, 2020 MacBook Air, 2020 13" Macbook Pro, 2021 14"/16" MacBook Pro<br>
