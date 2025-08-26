@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-#markdown text below
+[comment]: markdown text below
