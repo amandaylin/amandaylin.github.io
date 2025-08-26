@@ -11,12 +11,12 @@ I am a PhD student at Caltech interested in developing functional materials for 
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <a href="../portfolio/portfolio-1">
-    <img src="../images/apple-vision-pro-side.jpeg" alt="Image 1" style="width: 30%; min-width: 150px;"/>
+    <img src="../images/apple-vision-pro-side.jpeg" alt="Image 1" style="width: 30%; min-width: 300px;"/>
   </a>
   <a href="../portfolio/portfolio-2">
-    <img src="../images/MacBook-Pro.jpeg" alt="Image 2" style="width: 30%; min-width: 150px;"/>
+    <img src="../images/MacBook-Pro.jpeg" alt="Image 2" style="width: 30%; min-width: 300px;"/>
   </a>
   <a href="../portfolio/portfolio-3">
-    <img src="../images/tamper-seal.png" alt="Image 3" style="width: 30%; min-width: 150px;"/>
+    <img src="../images/tamper-seal.png" alt="Image 3" style="width: 30%; min-width: 300px;"/>
   </a>
 </p>
