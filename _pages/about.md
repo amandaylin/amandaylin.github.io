@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Caltech interested in developing functional materials for health sensing applications that people live longer and healthier lives. My background spans across materials design, product development, and user research. 
+I am a PhD student at Caltech interested in developing functional materials for health sensing applications. My background spans across materials design, product development, and user research. 
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <a href="../portfolio/portfolio-1">
